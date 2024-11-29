@@ -1,0 +1,14 @@
+button {
+  all: unset;
+  border: 1px rgb(0, 0, 0) solid;
+  width: 130px;
+  border-radius: 4px;
+  font-family: inherit;
+  font-weight: 600;
+  margin-top: 20px;
+  padding: 8px;
+  color: hsl(0, 0%, 0%);
+  cursor: pointer;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+}
